@@ -1,0 +1,3 @@
+# 
+setwd("blognew")
+library(blogdown)
